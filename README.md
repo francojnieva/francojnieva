@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Franco Javier Nieva</h1>
+<h1 align="center">Hola 👋. Soy Franco Javier Nieva</h1>
 <h3 align="center">Estudiante Full Stack Developer. Apasionado por el mundo IT.</h3>
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript**
