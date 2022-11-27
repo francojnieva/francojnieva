@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋. Soy Franco Javier Nieva</h1>
 <h3 align="center">Estudiante Full Stack Developer. Apasionado por el mundo IT.</h3>
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript**
+- 💬 Puedes preguntarme sobre **HTML5, CSS3, JavaScript**
 
-- 📫 How to reach me **franco97nieva@gmail.com**
+- 📫 Puedes escribirme por medio del email **franco97nieva@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
