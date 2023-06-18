@@ -1,15 +1,39 @@
-<h1 align="center">Hola 👋. Soy Franco Javier Nieva</h1>
-<h3 align="center">Estudiante Full Stack Developer. Apasionado por el mundo IT.</h3>
+# ¡Hola! 👋. Soy Franco Nieva 😁
+Soy estudiante de desarrollo Full Stack, apasionado del mundo IT. 👨‍💻
+## Contacto
+¡No dudes en ponerte en contacto conmigo!
 
-- 💬 Puedes preguntarme sobre **HTML5, CSS3, JavaScript**
+[<img align="left" style="margin-right: 1rem" alt="LinkedIn" width="32px" src="https://www.svgrepo.com/show/349436/linkedin.svg" />](https://www.linkedin.com/in/francojnieva)
 
-- 📫 Puedes escribirme por medio del email **franco97nieva@gmail.com**
+[<img align="left" style="margin-right: 1rem" alt="Instagram" width="32px" src="https://www.svgrepo.com/show/349410/instagram.svg" />](https://www.instagram.com/franconieva.97)
 
-<h3 align="left">Conecta conmigo por medio de:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/francojnieva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francojnieva" height="30" width="40" /></a>
-<a href="https://instagram.com/franconieva.97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="franconieva.97" height="30" width="40" /></a>
-</p>
+[<img align="left" style="margin-right: 1rem" alt="Gmail" width="32px" src="https://www.svgrepo.com/show/448227/google.svg" />](mailto:franco97nieva@gmail.com)
+<br>
 
-<h3 align="left">Habilidades/Conocimientos:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+## Lenguajes y herramientas
+
+<img align="left" style="margin-right: 1rem" alt="HTML" width="50px" src="https://www.svgrepo.com/show/452228/html-5.svg" />
+
+<img align="left" style="margin-right: 1rem" alt="CSS" width="50px" src="https://www.svgrepo.com/show/373535/css.svg" />
+
+<img align="left" style="margin-right: 1rem" alt="JavaScript" width="50px" src="https://www.svgrepo.com/show/373705/js-official.svg" />
+<br>
+
+<img align="left" style="margin-right: 1rem" alt="Bootstrap" width="45px" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" />
+
+<img align="left" style="margin-right: 1rem" alt="ReactJS" width="50px" src="https://www.svgrepo.com/show/452092/react.svg" />
+<br>
+
+<img align="left" style="margin-right: 1rem" alt="Git" width="50px" src="https://www.svgrepo.com/show/452210/git.svg" />
+
+<img align="left" style="margin-right: 1rem" alt="GitHub" width="50px" src="https://www.svgrepo.com/show/439171/github.svg" />
+
+<img align="left" style="margin-right: 1rem" alt="Trello" width="50px" src="https://www.svgrepo.com/show/349532/trello.svg" />
+
+<img align="left" style="margin-right: 1rem" alt="Visual Studio Code" width="50px" src="https://www.svgrepo.com/show/306935/visualstudiocode.svg" />
+<br>
+
+Siempre estoy abierto a aprender nuevas tecnologías y explorar nuevas herramientas para mejorar mi flujo de trabajo. ✨
+
+**¡Gracias por visitar mi perfil!** 
+
