@@ -33,7 +33,5 @@ Soy estudiante de desarrollo Full Stack, apasionado del mundo IT. 👨‍💻
 <br>
 <br>
 
-<p>Siempre estoy abierto a aprender nuevas tecnologías y explorar nuevas herramientas para mejorar mi flujo de trabajo. ✨</p>
-
-<p>**¡Gracias por visitar mi perfil!**</p> 
+**¡Gracias por visitar mi perfil!**
 
