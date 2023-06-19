@@ -33,5 +33,4 @@ Soy estudiante de desarrollo Full Stack, apasionado del mundo IT. 👨‍💻
 <br>
 <br>
 
-**¡Gracias por visitar mi perfil!**
 
