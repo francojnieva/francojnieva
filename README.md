@@ -1,36 +1,20 @@
-# ¡Hola! 👋. Soy Franco Nieva 😁
-Soy estudiante de desarrollo Full Stack, apasionado del mundo IT. 👨‍💻
-## Contacto
-¡No dudes en ponerte en contacto conmigo!
+# Hola, soy Franco Nieva 👋
+Desarrollador Frontend. Apasionado del mundo IT 👨‍💻✨
 
-[<img align="left" style="margin-right: 1rem" alt="LinkedIn" width="32px" src="https://www.svgrepo.com/show/349436/linkedin.svg" />](https://www.linkedin.com/in/francojnieva)
+## Tecnologías
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
-[<img align="left" style="margin-right: 1rem" alt="Instagram" width="32px" src="https://www.svgrepo.com/show/349410/instagram.svg" />](https://www.instagram.com/franconieva.97)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-[<img align="left" style="margin-right: 1rem" alt="Gmail" width="32px" src="https://www.svgrepo.com/show/448227/google.svg" />](mailto:franco97nieva@gmail.com)
-<br>
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
-## Lenguajes y herramientas
-<div>
-<img align="left" style="margin-right: 1rem" alt="HTML" width="50px" src="https://www.svgrepo.com/show/452228/html-5.svg" />
+## Contacto 
+Si deseas comunicarte conmigo. Puedes encontrarme en las siguientes plataformas:
 
-<img align="left" style="margin-right: 1rem" alt="CSS" width="50px" src="https://www.svgrepo.com/show/373535/css.svg" />
-
-<img align="left" style="margin-right: 1rem" alt="JavaScript" width="50px" src="https://www.svgrepo.com/show/373705/js-official.svg" />
-
-<img align="left" style="margin-right: 1rem" alt="Bootstrap" width="45px" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" />
-
-<img align="left" style="margin-right: 1rem" alt="ReactJS" width="50px" src="https://www.svgrepo.com/show/452092/react.svg" />
-
-<img align="left" style="margin-right: 1rem" alt="Git" width="50px" src="https://www.svgrepo.com/show/452210/git.svg" />
-
-<img align="left" style="margin-right: 1rem" alt="GitHub" width="50px" src="https://www.svgrepo.com/show/439171/github.svg" />
-
-<img align="left" style="margin-right: 1rem" alt="Trello" width="50px" src="https://www.svgrepo.com/show/349532/trello.svg" />
-
-<img align="left" style="margin-right: 1rem" alt="Visual Studio Code" width="50px" src="https://www.svgrepo.com/show/306935/visualstudiocode.svg" />
-</div>
+<a href="https://www.linkedin.com/in/francojnieva" target="_blank"><img alt="LinkedIn" width="32px" style="margin-right: 1rem" src="https://www.svgrepo.com/show/349436/linkedin.svg" /></a> <a href="https://www.instagram.com/franconieva.97" target="_blank"><img alt="Instagram" width="32px" style="margin-right: 1rem" src="https://www.svgrepo.com/show/349410/instagram.svg" /></a> <a href="mailto:franco97nieva@gmail.com" target="_blank"><img alt="LinkedIn" width="32px" src="https://www.svgrepo.com/show/448227/google.svg" /></a>
 <br>
 <br>
+****¡Gracias por visitar mi perfil! ❤ <br>
+Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre proyectos, no dudes en ponerte en contacto. Estoy siempre abierto a nuevas oportunidades de colaboración y aprendizaje. 😃✨****
 
 
