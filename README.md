@@ -3,7 +3,7 @@
 Soy de la provincia de Tucumán, Argentina. 
 Responsable, organizado, empático. Me gusta trabajar en equipo y aprender de los demás. Creo que la colaboración es fundamental para el crecimiento profesional y personal. Siempre con la mejor disposición para realizar mis labores.
 
-Explora mis proyectos personales y grupales. Descubre un poco más sobre mí a través de mi Portafolio: https://franco-javier-nieva-portafolio.netlify.app
+Explora mis proyectos personales y grupales. Descubre un poco más sobre mí a través de mi Portafolio: https://franco-nieva.vercel.app
 
 ## Tecnologías
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
