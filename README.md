@@ -1,4 +1,4 @@
-[![banner-github.png](https://i.postimg.cc/ZRXh8W4Q/banner-github.png)](https://postimg.cc/ygh5BYJh)
+[![Banner-para-Linkedin-Licenciada-Marketing-Minimalista-Beige.png](https://i.postimg.cc/zDtNWYBq/Banner-para-Linkedin-Licenciada-Marketing-Minimalista-Beige.png)](https://postimg.cc/yWZ245cG)
 
 Soy de la provincia de Tucumán, Argentina. 
 Responsable, organizado, empático. Me gusta trabajar en equipo y aprender de los demás. Creo que la colaboración es fundamental para el crecimiento profesional y personal. Siempre con la mejor disposición para realizar mis labores.
