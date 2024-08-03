@@ -1,4 +1,4 @@
-[![Banner-para-Linkedin-Licenciada-Marketing-Minimalista-Beige.png](https://i.postimg.cc/zDtNWYBq/Banner-para-Linkedin-Licenciada-Marketing-Minimalista-Beige.png)](https://postimg.cc/yWZ245cG)
+[![Banner-para-Linkedin-Licenciada-Marketing-Minimalista-Beige-3.png](https://i.postimg.cc/sDKrykS0/Banner-para-Linkedin-Licenciada-Marketing-Minimalista-Beige-3.png)](https://postimg.cc/6y7Sf1Md)
 
 ¡Hola! Soy Franco Javier Nieva, de la provincia de Tucumán, Argentina. Apasionado de la tecnología, con un enfoque especial en el desarrollo web Frontend.
 
